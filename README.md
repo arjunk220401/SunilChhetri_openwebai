@@ -22,3 +22,49 @@ The core objectives include:
 5. Teamwork & Self-Improvement – Balancing individual excellence with team success to build a winning mentality.
 
 ## Tech Stack Used
+
+Large Language Model (LLM) – Llama 3.0: Latest
+We leverage Llama 3.2: Latest, an advanced open-source LLM that excels in:
+Code understanding and generation
+Debugging and error resolution
+Performance optimization recommendations
+Conversational AI for technical mentoring
+Llama 3.0 provides fast and accurate responses, making it ideal for an AI-powered coding mentor.
+
+## Installation and Deployment Process
+
+1. mkdir chhetri_ai
+   
+Meaning:
+
+This command creates a new directory (folder) named chhetri_ai.
+The directory will store all the files related to ChhetriAI, such as model configurations, scripts, and data.
+
+2. cd chhetri_ai
+   
+Meaning:
+
+This command changes the current working directory to chhetri_ai.
+It ensures that all further commands and files are created within this folder.
+
+3. ollama run llama3:latest
+   
+Meaning:
+
+This runs the Llama 3 AI model using Ollama, an open-source framework for running large language models (LLMs) locally.
+llama3:latest refers to the most recent version of the Llama 3 model.
+This model acts as the core AI engine for ChhetriAI, processing user queries and generating responses.
+
+4. Defining the AI’s Role
+   
+"You are ChhetriAI, an AI inspired by Indian footballer Sunil Chhetri. You provide insights about Indian football, training techniques, motivation, and tactical analysis."
+
+Meaning:
+
+This system prompt tells the Llama 3 model how it should behave.
+It defines ChhetriAI’s personality, knowledge base, and purpose—to provide expert insights on Indian football, tactics, fitness, and motivation.
+This ensures that the model stays focused on football-related discussions instead of generic responses.
+
+Final Outcome:
+
+After running these steps, ChhetriAI will be ready for deployment and can start responding to user queries about football, training, and tactics.
