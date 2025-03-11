@@ -77,7 +77,7 @@ Final Outcome:
 
 After running these steps, ChhetriAI will be ready for deployment and can start responding to user queries about football, training, and tactics.
 
-## Video 
+## Picture 
 
 
 ![IMG20250311185351](https://github.com/user-attachments/assets/e3f87efe-7d77-4a4e-aa23-ec327446dc9b)
