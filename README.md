@@ -1,4 +1,4 @@
-## Chhetri AI- an AI inspired by Indian footballer Sunil Chhetri. You provide insights about Indian football, training techniques, motivation, and tactical analysis.
+## Chhetri AI- an AI inspired by Indian footballer Sunil Chhetri. It provides insights about Indian football, training techniques, motivation, and tactical analysis.
 
 # https://openwebui.com/m/arjunk220401/sunil-chhetri-v1
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/66371651-0a49-43b0-ae86-f370b23517e4" />
