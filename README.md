@@ -24,11 +24,17 @@ The core objectives include:
 ## Tech Stack Used
 
 Large Language Model (LLM) – Llama 3.0: Latest
+
 We leverage Llama 3.2: Latest, an advanced open-source LLM that excels in:
+
 Code understanding and generation
+
 Debugging and error resolution
+
 Performance optimization recommendations
+
 Conversational AI for technical mentoring
+
 Llama 3.0 provides fast and accurate responses, making it ideal for an AI-powered coding mentor.
 
 ## Installation and Deployment Process
@@ -52,7 +58,9 @@ It ensures that all further commands and files are created within this folder.
 Meaning:
 
 This runs the Llama 3 AI model using Ollama, an open-source framework for running large language models (LLMs) locally.
+
 llama3:latest refers to the most recent version of the Llama 3 model.
+
 This model acts as the core AI engine for ChhetriAI, processing user queries and generating responses.
 
 4. Defining the AI’s Role
