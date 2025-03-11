@@ -261,4 +261,16 @@ Problem: If ChhetriAI processes video footage for match analysis, it might be co
 
 Solution: Use AI-driven frame skipping to analyze only key moments rather than processing every frame.
 
+## Learnings perceived through Chhetri AI
 
+By interacting with ChhetriAI, users can develop:
+
+1. Resilience & Hard Work – Overcoming obstacles, staying dedicated, and pushing beyond limits.
+   
+2. Game Intelligence – Understanding football from a captain’s perspective—decision-making, movement, and adaptability.
+   
+3. Discipline & Professionalism – The mindset required to train, improve, and maintain peak performance.
+   
+4. Leadership & Motivation – Learning how to lead, inspire, and create a winning mentality in any field.
+   
+5. Commitment to Growth – Whether in football or life, embracing continuous learning and self-betterment.
